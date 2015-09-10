@@ -8,8 +8,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/andrew-d/ffsend/ptls"
 	"github.com/andrew-d/id"
+	"github.com/andrew-d/ptls"
 )
 
 var clientCmd = &cobra.Command{
